@@ -15,7 +15,7 @@
                         
                     </div>
                     <div class="tp-caption very-big-white tp-resizeme" data-x="0" data-y="280" data-width="none" data-height="none" data-whitespace="nowrap" data-transform_in="y:100px;opacity:0;s:500;e:Power2.easeOut;" data-transform_out="opacity:0;y:-100;s:400;e:Power2.easeInOut;" data-start="600" data-splitin="none" data-splitout="none" data-responsive_offset="on">
-                        <h2>Demonstration of hybrid RET systems in small & medium sized<br> enterprises the in agro-industry  </h2><br><br>
+                       
                     </div>
                     <div class="tp-caption" data-x="0" data-y="360" data-width="1150" data-height="none" data-whitespace="wrap" data-transform_in="y:100px;opacity:0;s:500;e:Power2.easeOut;" data-transform_out="opacity:0;y:-100;s:600;e:Power2.easeInOut;" data-start="700">
                         <p class="lead xs-hide"><br>Solar, biogas and biomass applications will be demonstrated that will improve the productivity of the sector through energy cost reductions, reduced post-harvest losses, increased yields etc. Through such pilots, resulting energy savings and GHG emissions reduction, will showcase the potential for the sector to contribute to climate change mitigation. The project will provide; assistance to provincial councils for  monitoring and reporting, support to conduct feasibility studies in identified locations, financial support to SMEs to adopt hybrid RETs and training and capacity building for endusers. </p>
